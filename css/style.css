@@ -1,0 +1,29 @@
+:root
+{
+	--favcolor: rgb(255, 0, 0);
+}
+h1
+{
+	text-align: center;
+	color: var(--favcolor);
+	background-color: rbg(210, 210, 210)
+	font-size: 36pt;
+	font-family: cursive;
+}
+section
+{
+	color: darkblue;
+	float: none;
+}
+p
+{
+	text-align: center;
+}
+img
+{
+	border-radius: 15%;
+}
+ul
+{
+	list-style-type: square;
+}
