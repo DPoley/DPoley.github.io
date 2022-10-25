@@ -1,0 +1,28 @@
+body
+{
+	background-color: rgb(240, 240, 240);
+}
+h1
+{
+	background-color: rbg(210, 210, 210)
+	font-size: 36pt;
+	font-family: cursive;
+}
+img
+{
+	border-radius: 20%;
+}
+ul
+{
+	list-style-type: circle;
+	font-size: 14pt;
+}
+section
+{
+	color: darkblue;
+}
+p
+{
+	color: red;
+	text-decoration: underline overline;
+}
