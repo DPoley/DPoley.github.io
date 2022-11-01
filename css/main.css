@@ -23,6 +23,6 @@ section
 }
 p
 {
-	color: red;
-	text-decoration: underline overline;
+	color: black;
+	text-decoration: underline;
 }

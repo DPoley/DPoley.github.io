@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <link rel="stylesheet" href="css/main.css">
+    <meta charset="utf-8">
+        <title>Site Searching</title>
+    </head>
+    <body>
+        <h1>Site Searching</h1>
+	<form action="https://www.google.com/search">
+		<div>
+			<label for="site"> Website: </label>
+			<input type="text" id="site" name="as_sitesearch" placeholder="Desired website">
+		</div>
+		<div>
+			<label for="images"> Pictures </label>
+			<input type="checkbox" id="images" name="tbm" value="isch">
+		</div>
+		<div>
+			<label for="books"> Books</label>
+			<input type="checkbox" id="books" name="tbm" value="bks">
+		</div>
+		<div>
+			<label for="shop"> Shopping</label>
+			<input type="checkbox" id="shop" value="shop">
+		</div>
+		<div>
+			<p>File Selector
+			<select name="as_filetype"
+				<option value=""></option>
+				<option value="docx">Microsoft Word Document</option>
+				<option value="pdf">Adobe PDF Document</option>
+				<option value="html">Web Page</option>
+			</select>
+			</p>
+		</div>
+		<div>
+			<input type="submit" value="SEARCH">
+		</div>
+		
+	</form>
+    </body>
+</html>
