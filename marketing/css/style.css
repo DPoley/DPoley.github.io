@@ -1,0 +1,46 @@
+body
+{
+	background-color: rgb(240, 240, 240);
+	font-family:mySansSerif;
+}
+h1
+{
+	color: red
+	font-size: 36pt;
+	font-family: cursive;
+	text-align:center;
+}
+h2
+{
+	color: red
+	font-size: 36pt;
+	font-family: cursive;
+}
+img
+{
+	border-radius: 20%;
+}
+ul
+{
+	list-style-type: circle;
+	font-size: 12pt;
+}
+section
+{
+	color: darkblue;
+}
+p
+{
+	color: black;
+	text-decoration: underline;
+}
+section h2
+{
+	font-size: 16pt;
+	font-family: cursive;
+	text-decoration: underline;
+}
+.date
+{
+	color:red;
+}
